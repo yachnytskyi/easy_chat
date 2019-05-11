@@ -1,6 +1,6 @@
 
 
-Easy Chat created on Ruby on Rails, Action Cable (WebSockets), Redis and JavaScript
+Easy Chat created on Ruby on Rails, Action Cable (WebSockets), Redis and JavaScript (Ajax)
 
 Thanks for viewing the Easy Chat, it was created for learning and practice. Easy Chat - a simple pet project
 
