@@ -19,19 +19,19 @@ db/
 lib/
 log/
 public/
-ssh.local
+storage/
 test/
 tmp/
 vendor/
 .gitignore
-Booting
+.ruby-version
+4.3.1
 Gemfile
 Gemfile.lock
 README.md
-Rails
 Rakefile
-Run
 config.ru
+dump.rdb
 package.json
 
 REQUIREMENTS
